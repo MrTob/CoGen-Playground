@@ -1,4 +1,4 @@
-# CoGen-Playground
+# CoGen-Playground (Compiler generator)
 A Workspace to simplify the (f)lex and yacc/(🦬) code generation - Windows only
 
 ## Folder Structure
